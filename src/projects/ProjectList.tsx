@@ -28,7 +28,9 @@ function ProjectList({ projects, onSave }: ProjectListProps) {
         );
     });
     return (
-        <div className='row'>{projectsList}</div>
+        <>
+            <div className='row'>{projectsList}</div>
+        </>
     );
 }
 
