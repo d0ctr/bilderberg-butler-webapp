@@ -1,6 +1,7 @@
 export interface GetBase {
     id: number,
-    name: string
+    name: string,
+    type: string
 }
 
 export interface GetText extends GetBase {

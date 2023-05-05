@@ -1,20 +1,37 @@
 [
     {
         "id": 1,
+        "type": "video",
         "name": "Video Get",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius sit. Suscipit tellus mauris a diam maecenas sed. Risus nec feugiat in fermentum posuere urna nec. Sagittis id consectetur purus ut faucibus pulvinar elementum integer.",
-        "thumbnail_url": "https://picsum.photos/200/300",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.",
+        "thumbnail_url": "https://picsum.photos/id/2/10/10",
         "video_url": "https://archive.org/download/nwmbc-Lorem_ipsum_video_-_Dummy_video_for_your_website/Lorem_ipsum_video_-_Dummy_video_for_your_website.mp4"
     },
     {
         "id": 2,
+        "type": "photo",
         "name": "Photo Get",
-        "thumbnail_url": "https://picsum.photos/200/300",
-        "photo_url": "https://picsum.photos/600/1800"
+        "thumbnail_url": "https://picsum.photos/id/1/200/300",
+        "photo_url": "https://picsum.photos/id/1/600/1800"
     },
     {
         "id": 3,
         "name": "Text Get",
+        "type": "text",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius sit. Suscipit tellus mauris a diam maecenas sed. Risus nec feugiat in fermentum posuere urna nec. Sagittis id consectetur purus ut faucibus pulvinar elementum integer."
+    },
+    {
+        "id": 4,
+        "type": "text",
+        "name": "Extra Large Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut velit eu nisl placerat egestas vel faucibus ligula. Curabitur ipsum sapien, pulvinar id ante nec, rutrum vestibulum elit. Nullam mauris purus, consequat ac aliquet sit amet, malesuada et massa. Etiam eu risus turpis. Integer sit amet dignissim justo. Quisque at quam eu nisi sagittis vehicula. Vivamus bibendum nibh sit amet diam consectetur efficitur. In lobortis nisl a accumsan fermentum. Etiam condimentum, velit vel rhoncus gravida, turpis massa posuere augue, sed euismod mauris velit eu quam. Donec sit amet nulla ornare, convallis risus nec, vehicula dui. Mauris vehicula, urna quis rutrum."
+    },
+    {
+        "id": 5,
+        "type": "photo",
+        "name": "Extra Large Text With Photo",
+        "thumbnail_url": "https://picsum.photos/id/3/200/300",
+        "photo_url": "https://picsum.photos/id/3/200/300",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut velit eu nisl placerat egestas vel faucibus ligula. Curabitur ipsum sapien, pulvinar id ante nec, rutrum vestibulum elit. Nullam mauris purus, consequat ac aliquet sit amet, malesuada et massa. Etiam eu risus turpis. Integer sit amet dignissim justo. Quisque at quam eu nisi sagittis vehicula. Vivamus bibendum nibh sit amet diam consectetur efficitur. In lobortis nisl a accumsan fermentum. Etiam condimentum, velit vel rhoncus gravida, turpis massa posuere augue, sed euismod mauris velit eu quam. Donec sit amet nulla ornare, convallis risus nec, vehicula dui. Mauris vehicula, urna quis rutrum."
     }
 ]
