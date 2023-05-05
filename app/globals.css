@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --ios-gray: 142, 142, 147;
+  --ios-background: 242, 242, 247;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --ios-background: 28, 28, 30;
+    --ios-primary: 58, 58, 60;
+  }
+}
+
+.card {
+  background: rgb(var(--ios-primary));
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--ios-background))
+}

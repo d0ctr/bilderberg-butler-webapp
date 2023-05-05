@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Video Get",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius sit. Suscipit tellus mauris a diam maecenas sed. Risus nec feugiat in fermentum posuere urna nec. Sagittis id consectetur purus ut faucibus pulvinar elementum integer.",
+        "thumbnail_url": "https://picsum.photos/200/300",
+        "video_url": "https://archive.org/download/nwmbc-Lorem_ipsum_video_-_Dummy_video_for_your_website/Lorem_ipsum_video_-_Dummy_video_for_your_website.mp4"
+    },
+    {
+        "id": 2,
+        "name": "Photo Get",
+        "thumbnail_url": "https://picsum.photos/200/300",
+        "photo_url": "https://picsum.photos/600/1800"
+    },
+    {
+        "id": 3,
+        "name": "Text Get",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius sit. Suscipit tellus mauris a diam maecenas sed. Risus nec feugiat in fermentum posuere urna nec. Sagittis id consectetur purus ut faucibus pulvinar elementum integer."
+    }
+]
